@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MoboRobot-Project/static/css/main.ae42ac5f.css",
+    "main.js": "/MoboRobot-Project/static/js/main.8171c1ba.js",
+    "index.html": "/MoboRobot-Project/index.html",
+    "main.ae42ac5f.css.map": "/MoboRobot-Project/static/css/main.ae42ac5f.css.map",
+    "main.8171c1ba.js.map": "/MoboRobot-Project/static/js/main.8171c1ba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae42ac5f.css",
+    "static/js/main.8171c1ba.js"
+  ]
+}
