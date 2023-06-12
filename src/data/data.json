@@ -1,68 +1,83 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "MOBOROBOT",
+    "paragraph": "It is a differential robot equipped with a Lidar and an RGBD camera. It is capable of recording data as well as autonomous navigation."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": " Our main purpose during the whole project is to make our robot go from point A to B, without needing any help apart from its own sensors and systems.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "NVIDIA Jetson AGX Orin Developer Kit",
+      "LIDAR",
+      "Zed 2"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
       "Lorem ipsum dolor",
       "Exercitation ullamco",
       "Lorem ipsum dolor"
     ]
   },
+  "Academic" : [
+    {
+      "id": "introduction",
+      "title": "Introduction",
+      "paragraph": "In today’s world, many tasks were automated by various types of robots. Mobile robots are a subfield of robotics that are automatic machines capable of locomotion. They are used in various fields such as entertainment, domestic appliances, military and medical fields. These applications require mobile robots to perform complicated tasks and navigate in different environments. This article introduces the literature survey of the various techniques used for mobile robot navigation. We will split our navigation problem into three subproblems: localization, mapping, and planning"
+    },
+    {
+      "id": "setup",
+      "title": "Orin Setup",
+      "paragraph": "Github page explanation here"
+    },
+    {
+      "id": "simulation",
+      "title": "Simulation Setup",
+      "paragraph": "Github page explanation here"
+    },
+    {
+      "id": "project",
+      "title": "Project on Robot Setup",
+      "paragraph": "Github page explanation here"
+    },
+    {
+      "id": "packages",
+      "title": "Packages and Plugins",
+      "paragraph": "Github page explanation here"
+    }
+  ],
   "Gallery": [
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/01-large.jpg",
-      "smallImage": "img/portfolio/01-small.jpg"
+      "title": "Top View",
+      "largeImage": "img/portfolio/01.jpeg",
+      "smallImage": "img/portfolio/01.jpeg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/02-large.jpg",
-      "smallImage": "img/portfolio/02-small.jpg"
+      "title": "Front View",
+      "largeImage": "img/portfolio/03.jpeg",
+      "smallImage": "img/portfolio/03.jpeg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/03-large.jpg",
-      "smallImage": "img/portfolio/03-small.jpg"
+      "title": "Side View",
+      "largeImage": "img/portfolio/04.jpeg",
+      "smallImage": "img/portfolio/04.jpeg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/04-large.jpg",
-      "smallImage": "img/portfolio/04-small.jpg"
+      "title": "Side View",
+      "largeImage": "img/portfolio/05.jpeg",
+      "smallImage": "img/portfolio/05.jpeg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/05-large.jpg",
-      "smallImage": "img/portfolio/05-small.jpg"
+      "title": "Top",
+      "largeImage": "img/portfolio/06.jpeg",
+      "smallImage": "img/portfolio/06.jpeg"
+    },    
+    {
+      "title": "Side Far View",
+      "largeImage": "img/portfolio/02.jpeg",
+      "smallImage": "img/portfolio/02.jpeg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/06-large.jpg",
-      "smallImage": "img/portfolio/06-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/07-large.jpg",
-      "smallImage": "img/portfolio/07-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/08-large.jpg",
-      "smallImage": "img/portfolio/08-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/09-large.jpg",
-      "smallImage": "img/portfolio/09-small.jpg"
+      "title": "Side Far View",
+      "largeImage": "img/portfolio/07.jpeg",
+      "smallImage": "img/portfolio/07.jpeg"
     }
   ],
   "Services": [
@@ -97,68 +112,29 @@
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
     }
   ],
-  "Testimonials": [
-    {
-      "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    },
-    {
-      "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    },
-    {
-      "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    }
-  ],
+
   "Team": [
     {
       "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
+      "name": "Kaan Tunçer",
+      "job": "21946644"
     },
     {
       "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
+      "name": "Yunus Emre Yazıcı",
+      "job": "21827981"
     },
     {
       "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
+      "name": "Tuana Çetinkaya",
+      "job": "21985164"
     },
     {
       "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
+      "name": "Özgür Erkent",
+      "job": "Supervisor"
     }
   ],
-  "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
-    "facebook": "fb.com",
-    "twitter": "twitter.com",
-    "youtube": "youtube.com"
-  },
   "Features": [
     {
       "icon": "fa fa-comments-o",
